@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faroukshoucair&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faroukshoucair&theme=transparent" />
 </p>
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/faroukshoucair)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/faroukshoucair" />
+</p>
