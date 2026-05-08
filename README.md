@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faroukshoucair&theme=tokyonight" />
+</p>
 
-<!--
-**faroukshoucair/faroukshoucair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⏱ Coding Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+
+```txt
+Java         12 hrs 20 mins  ███████████░░░░░░░░░░░░░   45%
+JavaScript    8 hrs 14 mins  ████████░░░░░░░░░░░░░░░   30%
+HTML/CSS      4 hrs 02 mins  ████░░░░░░░░░░░░░░░░░░░   15%
+MATLAB        1 hr 48 mins   ██░░░░░░░░░░░░░░░░░░░░░    7%
+Other         0 hr 50 mins   ░░░░░░░░░░░░░░░░░░░░░░░    3%
+```
+
+<!--END_SECTION:waka-->
